@@ -1,7 +1,7 @@
 # Privacy Policy
 
-**Effective Date:** [INSERT LAUNCH DATE, e.g., July 1, 2026]
-**Last Updated:** [INSERT LAUNCH DATE]
+**Effective Date:** June 11, 2026
+**Last Updated:** June 11, 2026
 
 Seoul Works ("we," "us," or "our") operates the mobile application **K-Tarot: Seoul Cards** (the "App"). This Privacy Policy explains how we handle information when you use our App.
 

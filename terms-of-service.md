@@ -1,7 +1,7 @@
 # Terms of Service
 
-**Effective Date:** [INSERT LAUNCH DATE, e.g., July 1, 2026]
-**Last Updated:** [INSERT LAUNCH DATE]
+**Effective Date:** June 11, 2026
+**Last Updated:** June 11, 2026
 
 Welcome to **K-Tarot: Seoul Cards** ("the App"), operated by Seoul Works ("we," "us," or "our"). These Terms of Service ("Terms") govern your use of the App.
 
@@ -221,7 +221,7 @@ We reserve the right to suspend or terminate access to the App if you violate th
 
 Your use of the App is also governed by our **Privacy Policy**, which describes how we handle information. Please review it at:
 
-[INSERT PRIVACY POLICY URL — e.g., https://[your-username].github.io/seoulworks-legal/privacy.html]
+https://seoulworks-kr.github.io/seoulworks-legal/privacy.html
 
 ---
 
