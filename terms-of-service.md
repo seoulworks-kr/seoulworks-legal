@@ -11,7 +11,7 @@ By downloading, installing, or using the App, you agree to be bound by these Ter
 
 ## 1. Eligibility
 
-You must be at least **13 years of age** to use the App. The App is rated Teen (13+).
+You must be at least **13 years of age** to use the App. The App is intended for users aged 13 and older.
 
 If you are under the age of majority in your jurisdiction, you may use the App only with the consent of a parent or legal guardian.
 

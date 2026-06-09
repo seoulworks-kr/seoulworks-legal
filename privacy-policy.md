@@ -25,7 +25,7 @@ K-Tarot: Seoul Cards is designed to respect your privacy. **We do not operate an
 
 The following information is stored **only on your device** and is never transmitted to us:
 
-- Your tarot reading history (last 20 readings)
+- Your tarot reading history (a limited number of most recent readings, stored locally)
 - Selected cards and reading interpretations
 - Daily card selection state
 - Purchase status (whether you own the Founder's Pack)
@@ -103,7 +103,7 @@ We do not sell or share information about you with any third party for advertisi
 
 ## 5. Children's Privacy
 
-K-Tarot: Seoul Cards is rated **Teen (13+)**. **The App is not directed to children under 13, and children under 13 should not use the App.**
+K-Tarot: Seoul Cards is **intended for users aged 13 and older**. **The App is not directed to children under 13, and children under 13 should not use the App.**
 
 We do not knowingly collect personal information from children under 13. If we learn that we have inadvertently received information from a child under 13, we will take reasonable steps to address it.
 
