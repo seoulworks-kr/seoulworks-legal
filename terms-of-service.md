@@ -44,25 +44,15 @@ Upon purchase of the Founder's Pack, the following benefits are **provided immed
 
 These are the **core benefits** of the Founder's Pack. You should evaluate your purchase based on these immediate benefits.
 
-### 3.2 Future Bonus Content
+### 3.2 Future Founder Benefit
 
-In addition to the immediate benefits above, Founder's Pack purchasers **may receive** the following future bonus content, **if and when such content is developed and released**, at no additional charge:
+One future reading is committed to existing Founder's Pack holders:
 
-**If V1.1 is developed and released, this may include:**
+- **Celtic Cross spread (10 cards):** shown in the App as "Coming Soon." When the Celtic Cross spread is released, existing Founder's Pack holders will receive access to it **at no extra cost**.
 
-- Money & Abundance spread (additional reading type)
-- Custom card backs (visual customization)
-- Daily card push notifications
-- History with card images (visual reading history)
+No specific release date or version is guaranteed for the Celtic Cross spread. The commitment is limited to the no-extra-cost access described above — not to any particular timing. Any other future content is described separately in §3.7 and is **not** a commitment.
 
-**If V2 is developed and released, this may include:**
-
-- One seasonal card pack at no additional cost (subject to availability and release)
-- Founder badge in profile
-
-> **Important:** Future bonus content is **subject to development** and **has no guaranteed release date, scope, or inclusion**. Seoul Works makes no promise that any future version will be released, or that any specific feature will be included in any future version. The list above describes *current intent*, not commitment, and may change based on development decisions, technical constraints, or user feedback.
->
-> **Do not purchase the Founder's Pack based on expectations of future content.** Purchase based on the immediate benefits described in §3.1 only.
+**Evaluate your purchase based on the immediate benefits in §3.1.**
 
 ### 3.3 Pricing
 
@@ -88,20 +78,14 @@ Refunds are governed by **Google Play's refund policy**. For refund requests:
 
 Seoul Works does not process refunds directly, as we do not handle payments.
 
-### 3.7 What Is NOT Included
+### 3.7 Other Future Features and Exclusions
 
-To avoid confusion, the following are **explicitly NOT included** in the Founder's Pack:
-
-**Celtic Cross Spread**
-
-- The Celtic Cross 10-card spread is shown in the App as "Coming Soon" but is **not part of the current Founder's Pack**.
-- Celtic Cross is planned for a future version (currently targeted for V1.2), but **release timing and inclusion are not guaranteed**.
-- If Celtic Cross is released in a future version, Seoul Works will determine at that time whether it is included free for existing Founder's Pack holders, sold separately, or otherwise distributed.
+Apart from the committed benefit in §3.2, the following are **not part of the current Founder's Pack** and are provided, if at all, on a best-effort basis without guarantee:
 
 **Future Versions and Features**
 
-- Any feature labeled "Coming Soon," "Planned," or referenced as "V1.1," "V1.2," "V2," or any future version in the App or marketing materials is **aspirational** and does not constitute a commitment.
-- The future bonus content described in §3.2 is provided on a best-effort basis and is not a binding promise.
+- Any feature labeled "Coming Soon," "Planned," or referenced as a future version in the App or marketing materials is **aspirational** and does not constitute a commitment.
+- Seoul Works may choose to make certain future content available to Founder's Pack holders at no additional charge, but is not obligated to do so. Such content may include, for example, additional reading types, custom card backs, daily card notifications, visual reading history, a seasonal card pack, or a Founder badge. This content is **subject to development and has no guaranteed release date, scope, or inclusion**, and describes *current intent rather than commitment*.
 
 **Other Exclusions**
 
@@ -205,7 +189,7 @@ Use of these services is also subject to their respective terms and privacy poli
 
 We may update, modify, or discontinue features of the App at any time. We will make reasonable efforts to communicate significant changes, but we are not obligated to maintain any specific feature indefinitely.
 
-Features described as "Coming Soon," "Planned," or referenced as part of any future version (V1.1, V1.2, V2, etc.) are **aspirational and not guaranteed**. Seoul Works does not commit to a release date, scope, or inclusion of any specific future feature. See §3.7 for details on what is not included in the Founder's Pack.
+Features described as "Coming Soon" or "Planned" are generally **aspirational and not guaranteed**, and Seoul Works does not commit to a release date, scope, or inclusion of any specific future feature. **The one exception is the no-extra-cost access to the Celtic Cross spread for existing Founder's Pack holders described in §3.2.** See §3.2 for the committed Founder benefit and §3.7 for other features that are not included.
 
 ---
 
