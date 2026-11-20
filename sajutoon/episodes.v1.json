@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "episodes": [
+    {
+      "id": "sajutoon-001",
+      "order": 1,
+      "title": "정재·편재가 있으면 돈복이 좋을까?",
+      "summary": "꾸준히 쌓는 재물과 폭넓은 기회에서 얻는 재물의 차이를 알아봐요.",
+      "instagramShortcode": "Df9N4yZEQfP",
+      "topicKey": "ten-gods"
+    },
+    {
+      "id": "sajutoon-002",
+      "order": 2,
+      "title": "공부 잘하는 길성 3가지가 있다면?",
+      "summary": "학당귀인·문창귀인·문곡귀인이 상징하는 배움과 재능을 알아봐요.",
+      "instagramShortcode": "Df4l_cqGNvJ",
+      "topicKey": "auspicious-stars"
+    },
+    {
+      "id": "sajutoon-003",
+      "order": 3,
+      "title": "도화살이 있으면 인기가 많을까?",
+      "summary": "도화살에 담긴 매력과 사람들의 눈길을 끄는 의미를 살펴봐요.",
+      "instagramShortcode": "Df7E4AimCIN",
+      "topicKey": "sinsal"
+    }
+  ]
+}
